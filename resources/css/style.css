@@ -93,7 +93,7 @@ h2:after{
 .btn-full:visited{
     background-color:#1B9CFC;
     border: 2px solid #1B9CFC;
-     color: #fff;
+     color: #fff;1
     margin-right: 20px;
     
 }
@@ -217,3 +217,88 @@ btn-full:active,
     transform: scale(1.03);
     opacity: 1;
 }
+
+
+.steps-box:first-child{
+    text-align: right;
+    padding-right: 3%;
+     margin-top: 30px;
+}
+
+.steps-box:last-child{
+    padding-left: 3%;
+    margin-top: 70px;
+}
+
+.app-screen{
+    width: 40%
+}
+
+.work-steps{
+    margin-bottom: 50px;
+}
+
+.work-steps:last-of-type{
+    margin-bottom: 80px;
+}
+
+.work-steps div{
+    color: #1B9CFC;
+    border: 2px solid #1B9CFC;
+    display: inline-block;
+    border-radius: 50%;
+    height: 55px;
+    width: 55px;
+    font-size: 130%;
+    text-align: center;
+    padding: 1%;
+    float: left;
+    margin-right: 25px;
+    
+}
+
+.btn-app img{
+    height: 50px;
+    width: auto;
+    
+}
+
+.clearfix{zoom: 1}
+.clearfix:after{
+    content: '.';
+    clear: both;
+    display: block;
+    height: 0;
+    visibility: hidden;
+}
+
+.steps{
+    background-color: #f0f0f0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
