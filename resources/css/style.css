@@ -91,7 +91,7 @@ h2:after{
 
 .btn-full:link,
 .btn-full:visited{
-    background-color:#1B9CFC;
+    background-color: #1B9CFC;
     border: 2px solid #1B9CFC;
      color: #fff;1
     margin-right: 20px;
@@ -276,9 +276,28 @@ btn-full:active,
     background-color: #f0f0f0;
 }
 
+.box img{
+    width: 100%;
+    height: auto;
+    margin-bottom: 15px;
+}
 
+.city{
+    margin-bottom: 5px;
+}
 
-
+.icon-small{
+    display: inline-block;
+    width: 30px;
+    text-align: center;
+    color: #1B9CFC;
+    font-size: 130%;
+    line-height: 130%;
+    vertical-align: middle;
+    margin-top: -3px;
+    margin-right: 5px;
+    
+}
 
 
 
